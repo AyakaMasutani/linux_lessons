@@ -13,10 +13,10 @@
 
 # やってみよう
 
-0. lesson_3のフォルダの中からhoge.txtを探してみよう
+0. lesson_4のフォルダの中からhoge.txtを探してみよう
 1. hoge.txtの中で「hoge」という文字列を含む行を抽出しよう
 2. names.tsvの中身をソートしよう
-3. names.tsvの3行目以降を表示しよう
+3. names.tsvの各行3文字目以降を表示しよう
 4. names.tsvの名前のみを表示しよう
 5. names.tsvをタブ区切り(tsv)からカンマ区切り(csv)に変換しよう
 6. names.tsvの行数を調べてみよう
