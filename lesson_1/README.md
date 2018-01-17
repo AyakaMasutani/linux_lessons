@@ -31,5 +31,5 @@
 
 8.  yamada_taro.txtをfamilyにコピーしよう(lsで確認すること)
 
-9.  lesson_0/yamada_taro.txt をyamada_hanako.txtにしてfamilyの中に移動させよう
+9.  lesson_1/yamada_taro.txt をyamada_hanako.txtにしてfamilyの中に移動させよう
 
